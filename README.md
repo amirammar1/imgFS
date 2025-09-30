@@ -1,4 +1,4 @@
-<img src="resources/Pictures/EPFL.png" title="EPFL logo" width="100"  align="right" sizes="auto" alt="2">
+<img src="done/resources/Pictures/EPFL.png" title="EPFL logo" width="100"  align="right" sizes="auto" alt="2">
 
 # ImageFS CS202-2024, by Amir Ammar and Yassine Kouch
 
